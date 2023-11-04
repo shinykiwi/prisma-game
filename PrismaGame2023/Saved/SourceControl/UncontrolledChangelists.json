@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kirafountain/Documents/GitHub/prisma-game/PrismaGame2023/Content/Levels/Level_One.umap",
+				"/Users/kirafountain/Documents/GitHub/prisma-game/PrismaGame2023/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/kirafountain/Documents/GitHub/prisma-game/PrismaGame2023/Content/Materials/M_BackWall.uasset",
+				"/Users/kirafountain/Documents/GitHub/prisma-game/PrismaGame2023/Content/Materials/M_LightColor.uasset",
+				"/Users/kirafountain/Documents/GitHub/prisma-game/PrismaGame2023/Content/ThirdPerson/Blueprints/BP_BackWall.uasset",
+				"/Users/kirafountain/Documents/GitHub/prisma-game/PrismaGame2023/Content/Models/Triangle.uasset"
+			]
+		}
+	]
+}
